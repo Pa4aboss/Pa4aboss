@@ -30,19 +30,15 @@ I'm a TeamLead of data analyst with a passion for analysis, ingenering and visua
   - Create of industrial reports on SuperSet with Jinja Template
   - Experience through working with POWER BI, Tableau and DataLens
 
-🛠 Tools Proficiency:
+👯 Team:
 ---
-* MS Excel / Google Sheets / POWER QUERY: Advanced in data preprocessing, cleaning, pivot tables, VLOOKUP, HLOOKUP, etc. (can also handle VBA).
-* POWER BI: Building visualizations and database models with a solid grasp of product metrics.
+- Organizing the work of a team of 5 analysts and 2 data engineers
+- Implementation of OneOne and quarterly meetings
   
 🌍 Languages & Traits:
 ---
 * Languages: Fluent in English (B-2).
 * Traits: Highly trainable, open to feedback, and always striving for improvement.
-  
-💡 Fun Fact:
 ---
-~~I've braved the bureaucratic circles of analysis, starting from a factory to the city ministry. Bureaucracy 🤢🤮~~
-
 ### 📫 How to Reach Me: tg: @[PavelKeychin](https://t.me/PavelKeychin)
 Let's connect and explore the world of data together! 🚀
